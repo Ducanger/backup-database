@@ -4,3 +4,11 @@
 2023-05-05_11-09: Backup successful
 2023-05-05_11-10: Backup successful
 2023-05-05_15-37: Backup successful
+2023-05-05_17-02: Backup successful
+2023-05-05_22-05: Backup successful
+2023-05-05_22-08: Backup successful
+2023-05-05_22-10: Backup successful
+ 2023-05-05_22-16: Backup failed! Error during dump creation
+ 2023-05-05_22-16: Backup failed! Error during dump creation
+2023-05-05_22-17: Backup failed! Error during dump creation
+2023-05-05_22-18: Backup failed! Error during dump creation
