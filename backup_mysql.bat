@@ -16,8 +16,9 @@ if %ERRORLEVEL% neq 0 (
     (echo %timestamp%: Backup failed! Error during dump creation) >> "%backup_path%\backup_mysql_log.txt"
 ) else (echo %timestamp%: Backup successful) >> "%backup_path%\backup_mysql_log.txt"
 
-@REM push to github
-cd "D:\Project\book\backup-database"
+push to github
+cd /d "D:\Project\book\backup-database"
 git add . 
 git commit -m "scheduled backup database"
 git push
+pause
