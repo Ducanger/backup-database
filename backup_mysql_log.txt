@@ -1,7 +1,1 @@
-2023-05-05_22-19: Backup failed! Error during dump creation
-2023-05-05_22-33: Backup successful
-2023-05-05_22-35: Backup successful
-2023-05-05_22-45: Backup successful
-2023-05-05_22-50: Backup successful
-2023-05-05_22-52: Backup successful
-2023-05-05_22-54: Backup successful
+2023-05-05_22-19: Backup failed! Error during dump creation2023-05-05_22-56: Backup successful
